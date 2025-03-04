@@ -2,7 +2,6 @@
 
 - 👋 Oi, eu me chamo Lucas!
 - ❤️ Sou apaixonado por tecnologia e novo no mundo da programação.
-- 💻 Faço Análise e Desenvolvimento de Sistemas na FIAP.
 - 🌱 No momento estou aprendendo Python.
 
 <!---
