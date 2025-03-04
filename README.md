@@ -1,7 +1,7 @@
 ### Hello World :D
 
 - 👋 Oi, eu me chamo Lucas!
-- ❤️ Sou apaixonado por tecnologia e novo no mundo da programação.
+- ❤️ Sou um apaixonado por tecnologia, retornando ao mundo da programação.
 - 🌱 No momento estou aprendendo Python.
 
 <!---
